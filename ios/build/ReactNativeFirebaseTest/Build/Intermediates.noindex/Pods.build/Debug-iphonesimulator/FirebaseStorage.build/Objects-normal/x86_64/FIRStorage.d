@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/FIRStorage.m \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorage.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageConstants.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageComponent.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageConstants_Private.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStoragePath.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageReference_Private.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageReference.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageDownloadTask.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageObservableTask.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageTask.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageMetadata.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageUploadTask.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageTokenAuthorizer.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/GTMSessionFetcher/GTMSessionFetcherService.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/GTMSessionFetcher/GTMSessionFetcher.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageUtils.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorage_Private.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseAuthInterop/FIRAuthInterop.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRAppInternal.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRErrors.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRErrorCode.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRComponentContainer.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRComponentType.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRLibrary.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRComponent.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIROptions.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/GTMSessionFetcher/GTMSessionFetcherLogging.h

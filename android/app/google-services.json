@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "124505566264",
+    "firebase_url": "https://reactnativefirebasetest-71873.firebaseio.com",
+    "project_id": "reactnativefirebasetest-71873",
+    "storage_bucket": "reactnativefirebasetest-71873.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124505566264:android:b6a0bf2bd3778f69",
+        "android_client_info": {
+          "package_name": "com.firebaseauthtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124505566264-22mgfs5av7kjnvce410ns2fbt61h8fpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYpXcAtNduUF3BAzKDyJKxpE4qi-40ksU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124505566264-22mgfs5av7kjnvce410ns2fbt61h8fpr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124505566264-38om7h17lltseuv9qf7ne0f2roi7krek.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.FirebaseAuthTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDynamicLinks.m \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/Public/FIRDynamicLinks.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/Public/FIRDynamicLink.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/Public/FIRDynamicLinksCommon.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseAnalyticsInterop/FIRAnalyticsInterop.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRAppInternal.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRErrors.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRErrorCode.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRComponent.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRComponentContainer.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRComponentType.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRLibrary.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRDependency.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIROptionsInternal.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIROptions.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDLScionLogging.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDLRetrievalProcessFactory.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDLRetrievalProcessProtocols.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDLRetrievalProcessResult.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDynamicLink+Private.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDynamicLinkNetworking.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDynamicLinks+FirstParty.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDynamicLinks+Private.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/Logging/FDLLogging.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/Utilities/FDLUtilities.h

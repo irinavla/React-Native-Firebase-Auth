@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/AuthProviders/Phone/FIRPhoneAuthProvider.m \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRPhoneAuthProvider.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRLogger.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRLoggerLevel.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/AuthProviders/Phone/FIRPhoneAuthCredential_Internal.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRPhoneAuthCredential.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthCredential.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthAPNSToken.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthAPNSTokenType.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthAPNSTokenManager.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthAppCredential.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthAppCredentialManager.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthGlobalWorkQueue.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuth_Internal.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuth.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthErrors.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseAuthInterop/FIRAuthInterop.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthURLPresenter.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthNotificationManager.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthErrorUtils.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/RPCs/FIRAuthBackend.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthSettings.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthWebUtils.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FirebaseAuthVersion.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIROptions.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/RPCs/FIRGetProjectConfigRequest.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/RPCs/FIRIdentityToolkitRequest.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/RPCs/FIRAuthRequestConfiguration.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/RPCs/FIRAuthRPCRequest.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/RPCs/FIRGetProjectConfigResponse.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/RPCs/FIRAuthRPCResponse.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/RPCs/FIRSendVerificationCodeRequest.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/RPCs/FIRSendVerificationCodeResponse.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/RPCs/FIRVerifyClientRequest.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/RPCs/FIRVerifyClientResponse.h

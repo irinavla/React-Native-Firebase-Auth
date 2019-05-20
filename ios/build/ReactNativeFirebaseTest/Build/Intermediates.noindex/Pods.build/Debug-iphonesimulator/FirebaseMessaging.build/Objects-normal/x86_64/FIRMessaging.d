@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessaging.m \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/Public/FIRMessaging.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessaging_Private.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingAnalytics.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseAnalyticsInterop/FIRAnalyticsInterop.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingClient.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingConstants.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingContextManagerService.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDataMessageManager.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDefines.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/Public/FIRMessagingExtensionHelper.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingLogger.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMMessageCode.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingPubSub.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingReceiver.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingRemoteNotificationsProxy.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingRmqManager.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingSyncMessageManager.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingUtilities.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingVersionUtilities.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRAppInternal.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRErrors.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRErrorCode.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRComponent.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRComponentContainer.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRComponentType.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRLibrary.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRDependency.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseInstanceID/FirebaseInstanceID.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseInstanceID/FIRInstanceID.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/GoogleUtilities/GULReachabilityChecker.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/GoogleUtilities/GULUserDefaults.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/NSError+FIRMessaging.h

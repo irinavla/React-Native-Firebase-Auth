@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseFunctions/Functions/FirebaseFunctions/FIRFunctions.m \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseFunctions/Functions/FirebaseFunctions/Public/FIRFunctions.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseFunctions/Functions/FirebaseFunctions/FIRFunctions+Internal.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseAuthInterop/FIRAuthInterop.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRComponent.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRComponentContainer.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRComponentType.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRLibrary.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRDependency.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseFunctions/Functions/FirebaseFunctions/Public/FIRError.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseFunctions/Functions/FirebaseFunctions/FIRHTTPSCallable+Internal.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseFunctions/Functions/FirebaseFunctions/Public/FIRHTTPSCallable.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseFunctions/Functions/FirebaseFunctions/FUNContext.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseFunctions/Functions/FirebaseFunctions/FUNError.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseFunctions/Functions/FirebaseFunctions/FUNSerializer.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseFunctions/Functions/FirebaseFunctions/FUNUsageValidation.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseCore/Firebase/Core/Public/FIRApp.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRAppInternal.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRErrors.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRErrorCode.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseCore/Firebase/Core/Public/FIROptions.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.h

@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FLevelDBStorageEngine.m \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FLevelDBStorageEngine.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FStorageEngine.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FNode.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Utilities/FPath.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FTypedefs_Private.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FCompoundWrite.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FQuerySpec.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FQueryParams.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/FIndex.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRLogger.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRLoggerLevel.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/third_party/Wrap-leveldb/APLevelDB.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FSnapshotUtilities.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FWriteRecord.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FTrackedQuery.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FEmptyNode.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FPruneForest.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FUtilities.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FParsedUrl.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FRepoInfo.h \
+  /Users/irinav/Desktop/Tuts/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FPendingPut.h
